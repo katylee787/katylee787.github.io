@@ -1,0 +1,106 @@
+body {background-color: #ffd8b5;}
+
+div {
+  border: 20px;
+  padding: 20px;
+  margin: 20px;
+}
+
+h1 {text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 120px;
+	font-weight: 200;
+	height: 60px;
+	background-color: #e4955c;
+	margin-top: 5px;
+	margin-bottom: 5px;}
+
+h2 {text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 80px;
+	font-weight: 100;
+	position: relative;
+	top: 30px;}
+
+#intro {text-align: center;
+		font-family: 'Yanone Kaffeesatz', sans-serif;
+		font-size: 30px;
+		font-weight: 100;
+		position: relative;
+		margin-top: 25px;
+		margin-bottom: 25px;} 
+
+#dot {text-align: center;
+	height: 25px;
+  	width: 25px;
+  	font-size: 0;
+  	background-color: #e27e35;
+	border-radius: 50%;
+  	display: inline-block;
+  	position: relative;
+  	margin-bottom: -25px;
+  	margin-top: -25px;
+  	top: -60px;}
+
+/*CLASSIC STUFFED PEPPERS*/
+
+h3 {text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 40px;
+	background-color: #ffc876;
+	height: 20px;}
+
+#bellpeppersimg {max-width: 80%;
+			height: auto;
+			border-radius:40px;
+			float: left;
+			margin-bottom: 20px}
+
+table, th, tr {font-family: 'Work Sans', sans-serif;
+				background-color: #ffd596;
+				font-weight: 200;
+				border: 0.5px solid black;
+				border-collapse: collapse;}
+
+.instruction {font-family: 'Work Sans', sans-serif;
+				font-weight: 200;}
+
+/*APPLE PIE*/
+h4 {text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 40px;
+	background-color: #ffc876;
+	height: 20px;}
+
+#applepieimg {max-width: 80%;
+			height: auto;
+			border-radius:40px;
+			float: left;
+			margin-bottom: 20px}
+
+/*DELICIOUS HOT COCOA*/ 
+h5 {text-align: center;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 40px;
+	background-color: #ffc876;
+	height: 20px;}
+
+#hotcocoaimg {max-width: 80%;
+			height: auto;
+			border-radius:40px;
+			float: left;
+			margin-bottom: 20px}
+
+#recipes{text-align: center;
+		font-family: 'Work Sans', sans-serif;
+		font-weight: 200;
+		top: -70px;}
+
+#name {text-align: center;
+		font-family: 'Work Sans', sans-serif;
+		font-weight: 200;
+		margin-top: 25px;
+		margin-bottom: 25px;
+		top: -70px;}
+
+
